@@ -1,0 +1,3 @@
+[submodule "61-git-remotes-merge-conflict/OOP-git-merge-conflict-test"]
+	path = 61-git-remotes-merge-conflict/OOP-git-merge-conflict-test
+	url = git@github.com:2Skali3/61-git-merge-conflict-test.git
